@@ -1,0 +1,10 @@
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3.exe.config
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3.exe
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3.pdb
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.csproj.AssemblyReference.cache
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.Form1.resources
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.Properties.Resources.resources
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.csproj.GenerateResource.cache
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.csproj.CoreCompileInputs.cache
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.exe
+C:\Users\Phat\source\repos\baitapvenhabuoi3\baitapvenhabuoi3\obj\Debug\baitapvenhabuoi3.pdb
